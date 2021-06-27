@@ -1,0 +1,29 @@
+{
+  "name": "express-mongo-str",
+  "version": "1.0.0",
+  "description": "The package will give you starter code for a NodeJS web server written with ExpressJS and MongoDB\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nate2427/express_with_mongo_starter.git"
+  },
+  "author": "Nate Baker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nate2427/express_with_mongo_starter/issues"
+  },
+  "homepage": "https://github.com/nate2427/express_with_mongo_starter#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.9"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
