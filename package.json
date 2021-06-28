@@ -19,8 +19,10 @@
   },
   "homepage": "https://github.com/nate2427/express_with_mongo_starter#readme",
   "dependencies": {
+    "body-parser": "^1.19.0",
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
+    "instagram-scraper-api": "^0.1.1",
     "mongodb": "^3.6.9"
   },
   "devDependencies": {
